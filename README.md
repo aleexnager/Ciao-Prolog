@@ -1,1 +1,1 @@
-# Ciao-Prolog
+# Ciao Prolog

@@ -1,2 +1,2 @@
 # Práctica 2
-[Ver enunciado](/enunciado.pdf)
+[Ver enunciado](/practica2/enunciado.pdf)

@@ -1,5 +1,6 @@
 # Ciao Prolog
 En este repositorio encontrarás 2 practicas de la asignatura Programación Declarativa: Lógica y Restricciones (ETSIINF-UPM).
+
 Visita https://ciao-lang.org/ para conocer más acerca de este proyecto, apoyarlo, instalarlo y probar tus códigos. 
 
 ## Práctica 1
